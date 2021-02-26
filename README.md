@@ -7,6 +7,7 @@
 - [Dúvidas](https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D796069165533495327%26redirect_uri%3Dhttps%3A%2F%2Fstarter-bot.rocketseat.dev%2Fapi%2Fdiscord%2Fcallback%26response_type%3Dcode%26scope%3Didentify%2520email%2520guilds.join%26state%3DMGFkZjhkMWItYWU5MS00MGI3LWJjZDYtOTU1NGM1ZDRhZDU1)
 
 #rumoaoproximonivel
+#jornadainfinita
 
 ```bash
 npm create-react-app NOME --template=typescript
