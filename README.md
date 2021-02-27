@@ -8,6 +8,7 @@
 
 #rumoaoproximonivel
 #jornadainfinita
+#focopraticagrupo
 
 ```bash
 npm create-react-app NOME --template=typescript
