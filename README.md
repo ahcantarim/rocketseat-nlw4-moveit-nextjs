@@ -26,5 +26,37 @@ npm run dev
 npm install typescript @types/react @types/react-dom @types/node -D
 npm install js-cookie
 npm install @types/js-cookie -D
+npm install -g vercel
 ```
 
+```
+vercel login
+vercel
+
+# Set up and deploy? [Y]
+# Which scope... [Select your account]
+# Link to existing project? [N]
+# What's your project's name? [Name here]
+# In which directory ... [./]
+# Want to override the settings? [N]
+
+vercel # na segunda vez, irá criar novo ambiente de testes
+vercel --prod # para substituir publicação anterior de produção
+```
+
+https://moveit-nine-tau.vercel.app(https://moveit-nine-tau.vercel.app)
+
+```bash
+git clone [URL]
+npm install
+npm run dev # http://localhost:3000/
+```
+
+## TODO
+- [ ] Documentação do projeto
+- [ ] Responsividade para mobile
+- [ ] Integração com PWA
+- [ ] Barra de progresso no botão 'Abandonar ciclo'
+- [ ] Login com Github
+- [ ] Ranking de usuários
+- [ ] Compartilhar no Twitter (aumento de nível)
