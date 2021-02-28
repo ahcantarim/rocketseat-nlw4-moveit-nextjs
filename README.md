@@ -24,5 +24,7 @@ npm start
 npx create-next-app NOME
 npm run dev
 npm install typescript @types/react @types/react-dom @types/node -D
+npm install js-cookie
+npm install @types/js-cookie -D
 ```
 
